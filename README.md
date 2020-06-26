@@ -1,2 +1,2 @@
-# Projet Pyrhon
+# Projet Python
  DWWM
